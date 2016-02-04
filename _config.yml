@@ -1,0 +1,12 @@
+layout_spectrum: 0
+typography_spectrum: 0.1039427
+color:
+  saturation: 0.1834937
+  lightness: 0.8091584
+  brandStrength: 0.8733778
+  brandColors:
+    - '#38424C'
+    - '#768088'
+    - '#CFD6D8'
+  rhythmicContrast: 0.565986
+name: AugustaAndBaldwin
