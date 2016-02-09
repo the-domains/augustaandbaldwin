@@ -10,10 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.1039427
 color:
-  saturation: 0.1834937
+  saturation: 0.5860215
   brandStrength: 0.8733778
-  lightness: 0.8091584
+  lightness: 1
   brandColors:
     - '#2E4C89'
     - '#0C0C0E'
@@ -21,6 +22,5 @@ color:
     - '#E12029'
     - '#16DFC7'
   rhythmicContrast: 0.565986
-typography_spectrum: 0.1039427
 layout_spectrum: 0
 name: AugustaAndBaldwin
