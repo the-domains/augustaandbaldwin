@@ -13,7 +13,7 @@ collections:
 typography_spectrum: 0.1039427
 color:
   saturation: 0.5860215
-  brandStrength: 0.8733778
+  brandStrength: 1
   lightness: 1
   brandColors:
     - '#2E4C89'
